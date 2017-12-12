@@ -1,0 +1,49 @@
+/* Table of Contents:
+	1. Header (h1)
+	2. Paragraph (p)
+	3. Links (a)
+	5. Options (ul)
+	6. Layout (body)
+*/
+
+
+h1 {
+  color: #fafafa;
+  background-color: #4267b2;
+  font-family: "Futura", sans-serif;
+  font-variant: normal;
+  font-size: 160%;
+}
+
+p {
+  color: #333333;
+  font-family: "Arial", sans-serif;
+  font-weight: bolder;
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 100%;
+}
+
+ul a {
+  color: #4267b2;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+a:visited {
+  color: #aaaaaa
+}
+
+ul {
+  padding-top: 20px;
+}
+
+body {
+  background-color: #fafafa;
+  font-size: 100%;
+  font-style: normal;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: rgb(0, 30, 60);
+}
